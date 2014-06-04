@@ -1,4 +1,0 @@
-ipython
-=======
-
-ipython notebooks
