@@ -1,3 +1,5 @@
 ipython[notebook]
 openpyxl<2
 pandas
+scipy
+numpy
