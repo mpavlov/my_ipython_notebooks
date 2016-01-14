@@ -1,5 +1,13 @@
+# ipython req's
 ipython[notebook]
+pyzmq>=13
 openpyxl<2
 pandas
-scipy
-numpy
+jinja2
+tornado
+jsonschema
+#scipy
+#numpy
+
+# notebook-specific req's
+pyjwt
